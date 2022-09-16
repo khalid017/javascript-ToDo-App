@@ -1,0 +1,90 @@
+.container{
+    margin-left: auto;
+    margin-top: 30px;
+    margin-right: auto;
+    width: 960px;
+
+}
+
+
+.tasks
+{
+    float: left;
+    background-color: whitesmoke;
+    padding: 20px 35px;
+    margin-left: 5%;
+    margin-top: 20px;
+    border: 1px solid darkgrey;
+    margin-bottom: 0;
+    
+}
+.header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    
+}
+.header p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.add-task
+{
+    height: 30%;
+    margin-left: 5%;
+    margin-right: 12%;
+    margin-bottom: 0;
+}
+
+.add-task button
+{
+    background-color: aliceblue;
+   font-family: tahoma;
+   border-color:darkgray;
+   text-align: center;
+   font-size: 10px;
+   font-weight: bold;
+   margin-right: 2%;
+}
+
+.items{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    
+    
+}
+.items button{
+   margin-right: 5px;
+   background-color: aliceblue;
+   font-family: tahoma;
+   border-color:darkgray;
+   text-align: center;
+   font-size: 10px;
+   font-weight: bold;
+   
+    
+}
+
+.done
+{
+    text-decoration: line-through;
+
+}
+.warning
+{
+    border-color: red;
+}
+#input
+{
+    margin-top: 20px;
+    width: 35%;
+    height: 90%;
+    color: gray;
+    font-size: large;
+    margin-left: 5%;
+    
+}
+body{
+    background-image: url(./images/bg.png);
+    
+}
